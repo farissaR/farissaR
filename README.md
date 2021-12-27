@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farissaR
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning excle for Data Analyst
+- 🌱 I’m currently learning python for Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
